@@ -2,7 +2,7 @@
 //  OverlayScrollView.swift
 //  ProfileCreator
 //
-//  Created by Erik Berglund on 2018-04-11.
+//  Created by Erik Berglund.
 //  Copyright © 2018 Erik Berglund. All rights reserved.
 //
 
